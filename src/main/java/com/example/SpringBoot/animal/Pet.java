@@ -1,4 +1,4 @@
-package com.example.SpringBoot;
+package com.example.SpringBoot.animal;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

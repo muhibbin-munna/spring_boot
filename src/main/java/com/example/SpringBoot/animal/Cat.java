@@ -1,9 +1,9 @@
-package com.example.SpringBoot;
+package com.example.SpringBoot.animal;
 
-import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component
+//@Primary
 public class Cat implements Animal{
 
     public void sound (){
